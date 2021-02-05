@@ -1,4 +1,4 @@
-# -yandex-praktikum-projects
+# ED-projects
 
 
 ## Описание проекта: Оптимизация маркетинговых затрат
